@@ -2,6 +2,7 @@
     "name": "vscode-web-powerpack",
     "displayName": "VS Code Web Powerpack",
     "description": "VS Code extensions for web projects",
+    "icon": "icon.png",
     "version": "0.0.3",
     "publisher": "mattpjohnson",
     "engines": {
