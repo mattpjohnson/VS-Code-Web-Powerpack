@@ -2,7 +2,7 @@
     "name": "vscode-web-powerpack",
     "displayName": "VS Code Web Powerpack",
     "description": "VS Code extensions for web projects",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "mattpjohnson",
     "engines": {
         "vscode": "^1.18.0"
@@ -17,6 +17,7 @@
         "anweber.statusbar-commands",
         "Tyriar.sort-lines",
         "dbaeumer.vscode-eslint",
-        "christian-kohler.npm-intellisense"
+        "christian-kohler.npm-intellisense",
+        "patrys.vscode-code-outline"
     ]
 }

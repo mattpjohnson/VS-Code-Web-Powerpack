@@ -11,6 +11,7 @@ This extension pack packages powerful web extensions for Visual Studio Code.
 * [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) - Sorts lines of text.
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint into VS Code.
 * [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
+* [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline) - A code outline tree provider for VSCode.
 
 
 ## Want to see your extension added?
