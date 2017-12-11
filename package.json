@@ -1,7 +1,7 @@
 {
     "name": "vscode-web-powerpack",
-    "displayName": "VSCode Web Powerpack",
-    "description": "VSCode extensions for web projects",
+    "displayName": "VS Code Web Powerpack",
+    "description": "VS Code extensions for web projects",
     "version": "0.0.1",
     "publisher": "mattpjohnson",
     "engines": {

@@ -1,4 +1,4 @@
-# VSCode Web Extension Powerpack
+# VS Code Web Extension Powerpack
 
 This extension pack packages powerful web extensions for Visual Studio Code.
 
