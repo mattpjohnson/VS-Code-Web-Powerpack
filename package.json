@@ -2,7 +2,7 @@
     "name": "vscode-web-powerpack",
     "displayName": "VS Code Web Powerpack",
     "description": "VS Code extensions for web projects",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "mattpjohnson",
     "engines": {
         "vscode": "^1.18.0"
@@ -10,6 +10,13 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "url": "https://github.com/mattpjohnson/vscode-web-powerpack"
+    },
+    "homepage": "https://github.com/mattpjohnson/vscode-web-powerpack",
+    "bugs": {
+        "url": "https://github.com/mattpjohnson/vscode-web-powerpack/issues"
+    },
     "extensionDependencies": [
         "EditorConfig.EditorConfig",
         "alefragnani.Bookmarks",
