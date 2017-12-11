@@ -1,0 +1,22 @@
+{
+    "name": "vscode-web-powerpack",
+    "displayName": "VSCode Web Powerpack",
+    "description": "VSCode extensions for web projects",
+    "version": "0.0.1",
+    "publisher": "mattpjohnson",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "EditorConfig.EditorConfig",
+        "alefragnani.Bookmarks",
+        "IBM.output-colorizer",
+        "anweber.statusbar-commands",
+        "Tyriar.sort-lines",
+        "dbaeumer.vscode-eslint",
+        "christian-kohler.npm-intellisense"
+    ]
+}
