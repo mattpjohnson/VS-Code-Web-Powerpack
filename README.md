@@ -1,8 +1,8 @@
 <h1 align="center">VS Code Web Extension Powerpack</h1>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">
-    <img alt="EditorConfig logo" src="./docs/editorconfig.png" height="80" style="margin-right: 8px">
+  <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" style="margin-right: 8px">
+    <img alt="EditorConfig logo" src="./docs/editorconfig.png" height="80">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer">
     <img alt="Output Colorizer logo" src="./docs/output-colorizer.png" height="80">
@@ -10,8 +10,8 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=anweber.statusbar-commands">
     <img alt="Statusbar Commands logo" src="./docs/statusbar-commands.png" height="80">
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines">
-    <img alt="Sort lines logo" src="./docs/sort-lines.png" height="80" style="margin-right: 8px">
+  <a href="https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines" style="margin-right: 8px">
+    <img alt="Sort lines logo" src="./docs/sort-lines.png" height="80">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense">
     <img alt="npm Intellisense logo" src="./docs/npm-intellisense.png" height="80">
