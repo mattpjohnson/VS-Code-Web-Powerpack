@@ -1,4 +1,36 @@
-# VS Code Web Extension Powerpack
+<h1 align="center">VS Code Web Extension Powerpack</h1>
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">
+    <img alt="EditorConfig logo" src="./docs/editorconfig.png" height="80" style="margin-right: 8px">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer">
+    <img alt="Output Colorizer logo" src="./docs/output-colorizer.png" height="80">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=anweber.statusbar-commands">
+    <img alt="Statusbar Commands logo" src="./docs/statusbar-commands.png" height="80">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines">
+    <img alt="Sort lines logo" src="./docs/sort-lines.png" height="80" style="margin-right: 8px">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense">
+    <img alt="npm Intellisense logo" src="./docs/npm-intellisense.png" height="80">
+  </a>
+</p>
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline">
+    <img alt="Code Outline logo" src="./docs/code-outline.png" height="80">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks">
+    <img alt="Bookmarks logo" src="./docs/bookmarks.png" height="80">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">
+    <img alt="ESLint logo" src="./docs/es-lint.png" height="80">
+  </a>
+  </div>
+</p>
+
+## Description
 
 This extension pack packages powerful web development extensions for Visual Studio Code.
 
@@ -15,7 +47,7 @@ This extension pack packages powerful web development extensions for Visual Stud
 
 ## Optional - Back/Forward buttons in statusbar
 
-![](./docs/statusbar-back-forward-buttons.png)
+![Back/Forward buttons demo](./docs/statusbar-back-forward-buttons.png)
 
 If you'd like to add back/forward buttons to your statusbar add the following to your User Settings:<br>
 
