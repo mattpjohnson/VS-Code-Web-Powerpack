@@ -27,7 +27,6 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">
     <img alt="ESLint logo" src="https://rawgit.com/mattpjohnson/VS-Code-Web-Powerpack/master/docs/es-lint.png" height="80">
   </a>
-  </div>
 </p>
 
 ## Description
