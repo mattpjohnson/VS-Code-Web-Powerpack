@@ -1,31 +1,31 @@
 {
-    "name": "vscode-web-powerpack",
-    "displayName": "VS Code Web Powerpack",
-    "description": "VS Code extensions for web projects",
-    "icon": "icon.png",
-    "version": "0.0.3",
-    "publisher": "mattpjohnson",
-    "engines": {
-        "vscode": "^1.18.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "repository": {
-        "url": "https://github.com/mattpjohnson/vscode-web-powerpack"
-    },
-    "homepage": "https://github.com/mattpjohnson/vscode-web-powerpack",
-    "bugs": {
-        "url": "https://github.com/mattpjohnson/vscode-web-powerpack/issues"
-    },
-    "extensionDependencies": [
-        "EditorConfig.EditorConfig",
-        "alefragnani.Bookmarks",
-        "IBM.output-colorizer",
-        "anweber.statusbar-commands",
-        "Tyriar.sort-lines",
-        "dbaeumer.vscode-eslint",
-        "christian-kohler.npm-intellisense",
-        "patrys.vscode-code-outline"
-    ]
+  "name": "vscode-web-powerpack",
+  "displayName": "VS Code Web Powerpack",
+  "description": "VS Code extensions for web projects",
+  "icon": "icon.png",
+  "version": "0.1.0",
+  "publisher": "mattpjohnson",
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/mattpjohnson/vscode-web-powerpack"
+  },
+  "homepage": "https://github.com/mattpjohnson/vscode-web-powerpack",
+  "bugs": {
+    "url": "https://github.com/mattpjohnson/vscode-web-powerpack/issues"
+  },
+  "extensionDependencies": [
+    "EditorConfig.EditorConfig",
+    "alefragnani.Bookmarks",
+    "IBM.output-colorizer",
+    "anweber.statusbar-commands",
+    "Tyriar.sort-lines",
+    "dbaeumer.vscode-eslint",
+    "christian-kohler.npm-intellisense",
+    "patrys.vscode-code-outline"
+  ]
 }
