@@ -2,30 +2,30 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" style="margin-right: 8px">
-    <img alt="EditorConfig logo" src="./docs/editorconfig.png" height="80">
+    <img alt="EditorConfig logo" src="https://rawgit.com/mattpjohnson/VS-Code-Web-Powerpack/master/docs/editorconfig.png" height="80">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer">
-    <img alt="Output Colorizer logo" src="./docs/output-colorizer.png" height="80">
+    <img alt="Output Colorizer logo" src="https://rawgit.com/mattpjohnson/VS-Code-Web-Powerpack/master/docs/output-colorizer.png" height="80">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=anweber.statusbar-commands">
-    <img alt="Statusbar Commands logo" src="./docs/statusbar-commands.png" height="80">
+    <img alt="Statusbar Commands logo" src="https://rawgit.com/mattpjohnson/VS-Code-Web-Powerpack/master/docs/statusbar-commands.png" height="80">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines" style="margin-right: 8px">
-    <img alt="Sort lines logo" src="./docs/sort-lines.png" height="80">
+    <img alt="Sort lines logo" src="https://rawgit.com/mattpjohnson/VS-Code-Web-Powerpack/master/docs/sort-lines.png" height="80">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense">
-    <img alt="npm Intellisense logo" src="./docs/npm-intellisense.png" height="80">
+    <img alt="npm Intellisense logo" src="https://rawgit.com/mattpjohnson/VS-Code-Web-Powerpack/master/docs/npm-intellisense.png" height="80">
   </a>
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline">
-    <img alt="Code Outline logo" src="./docs/code-outline.png" height="80">
+    <img alt="Code Outline logo" src="https://rawgit.com/mattpjohnson/VS-Code-Web-Powerpack/master/docs/code-outline.png" height="80">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks">
-    <img alt="Bookmarks logo" src="./docs/bookmarks.png" height="80">
+    <img alt="Bookmarks logo" src="https://rawgit.com/mattpjohnson/VS-Code-Web-Powerpack/master/docs/bookmarks.png" height="80">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">
-    <img alt="ESLint logo" src="./docs/es-lint.png" height="80">
+    <img alt="ESLint logo" src="https://rawgit.com/mattpjohnson/VS-Code-Web-Powerpack/master/docs/es-lint.png" height="80">
   </a>
   </div>
 </p>
@@ -47,7 +47,7 @@ This extension pack packages powerful web development extensions for Visual Stud
 
 ## Optional - Back/Forward buttons in statusbar
 
-![Back/Forward buttons demo](./docs/statusbar-back-forward-buttons.png)
+![Back/Forward buttons demo](https://rawgit.com/mattpjohnson/VS-Code-Web-Powerpack/master/docs/statusbar-back-forward-buttons.png)
 
 If you'd like to add back/forward buttons to your statusbar add the following to your User Settings:<br>
 
