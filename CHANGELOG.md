@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Fix urls to point to https
+
 ## 0.1.0
 
 - Add statusbar_command back/forward button instructions

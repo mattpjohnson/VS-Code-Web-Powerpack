@@ -3,7 +3,7 @@
   "displayName": "VS Code Web Powerpack",
   "description": "VS Code extensions for web projects",
   "icon": "icon.png",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "mattpjohnson",
   "engines": {
     "vscode": "^1.18.0"
